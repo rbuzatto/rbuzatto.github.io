@@ -742,8 +742,10 @@ p {
     background-size: cover;
     background-position: left -0rem top -5.5rem;
     background-repeat: repeat-y;
-    background-attachment: fixed;
     filter: sepia(0.6) grayscale(0.4); }
+    @media (hover: hover) {
+      .landing::before {
+        background-attachment: fixed; } }
     @media only screen and (min-width: 480px) {
       .landing::before {
         background-size: cover;
