@@ -15,7 +15,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _Intro__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./Intro */ "./components/Intro.js");
 /* harmony import */ var _utils_utils__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../utils/utils */ "./utils/utils.js");
-var _jsxFileName = "C:\\Users\\might\\Studies\\landing-pages\\portfolio\\components\\About.js";
+var _jsxFileName = "C:\\Users\\might\\Studies\\landing-pages\\portfolio2.0\\portfolio-project\\components\\About.js";
 
 
 function _extends() { _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; }; return _extends.apply(this, arguments); }
@@ -78,7 +78,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! prop-types */ "./node_modules/prop-types/index.js");
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _icons_contactSvgs__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../icons/contactSvgs */ "./icons/contactSvgs.js");
-var _jsxFileName = "C:\\Users\\might\\Studies\\landing-pages\\portfolio\\components\\Footer.js";
+var _jsxFileName = "C:\\Users\\might\\Studies\\landing-pages\\portfolio2.0\\portfolio-project\\components\\Footer.js";
 
 
 
@@ -175,7 +175,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_transition_group__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react_transition_group__WEBPACK_IMPORTED_MODULE_2__);
 /* harmony import */ var react_scroll__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! react-scroll */ "./node_modules/react-scroll/modules/index.js");
 /* harmony import */ var react_scroll__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(react_scroll__WEBPACK_IMPORTED_MODULE_3__);
-var _jsxFileName = "C:\\Users\\might\\Studies\\landing-pages\\portfolio\\components\\Header.js";
+var _jsxFileName = "C:\\Users\\might\\Studies\\landing-pages\\portfolio2.0\\portfolio-project\\components\\Header.js";
 
 
 
@@ -290,7 +290,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! prop-types */ "./node_modules/prop-types/index.js");
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
-var _jsxFileName = "C:\\Users\\might\\Studies\\landing-pages\\portfolio\\components\\Intro.js";
+var _jsxFileName = "C:\\Users\\might\\Studies\\landing-pages\\portfolio2.0\\portfolio-project\\components\\Intro.js";
 
 
 
@@ -376,7 +376,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_scroll__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react_scroll__WEBPACK_IMPORTED_MODULE_2__);
 /* harmony import */ var _Stripes__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./Stripes */ "./components/Stripes.js");
 /* harmony import */ var _LanguageToggle__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./LanguageToggle */ "./components/LanguageToggle.js");
-var _jsxFileName = "C:\\Users\\might\\Studies\\landing-pages\\portfolio\\components\\Landing.js";
+var _jsxFileName = "C:\\Users\\might\\Studies\\landing-pages\\portfolio2.0\\portfolio-project\\components\\Landing.js";
 
 
 
@@ -519,7 +519,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! prop-types */ "./node_modules/prop-types/index.js");
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
-var _jsxFileName = "C:\\Users\\might\\Studies\\landing-pages\\portfolio\\components\\LanguageToggle.js";
+var _jsxFileName = "C:\\Users\\might\\Studies\\landing-pages\\portfolio2.0\\portfolio-project\\components\\LanguageToggle.js";
 
 function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof = function _typeof(obj) { return typeof obj; }; } else { _typeof = function _typeof(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof(obj); }
 
@@ -698,7 +698,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! prop-types */ "./node_modules/prop-types/index.js");
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _Intro__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./Intro */ "./components/Intro.js");
-var _jsxFileName = "C:\\Users\\might\\Studies\\landing-pages\\portfolio\\components\\Projects.js";
+var _jsxFileName = "C:\\Users\\might\\Studies\\landing-pages\\portfolio2.0\\portfolio-project\\components\\Projects.js";
 
 
 function _extends() { _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; }; return _extends.apply(this, arguments); }
@@ -804,7 +804,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _Intro__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./Intro */ "./components/Intro.js");
 /* harmony import */ var _utils_utils__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../utils/utils */ "./utils/utils.js");
 /* harmony import */ var _icons_paths__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../icons/paths */ "./icons/paths.js");
-var _jsxFileName = "C:\\Users\\might\\Studies\\landing-pages\\portfolio\\components\\Skills.js";
+var _jsxFileName = "C:\\Users\\might\\Studies\\landing-pages\\portfolio2.0\\portfolio-project\\components\\Skills.js";
 
 function _extends() { _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; }; return _extends.apply(this, arguments); }
 
@@ -980,10 +980,23 @@ Skills.defaultProps = {
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "C:\\Users\\might\\Studies\\landing-pages\\portfolio\\components\\Stripes.js";
+var _jsxFileName = "C:\\Users\\might\\Studies\\landing-pages\\portfolio2.0\\portfolio-project\\components\\Stripes.js";
 
+
+function _slicedToArray(arr, i) { return _arrayWithHoles(arr) || _iterableToArrayLimit(arr, i) || _nonIterableRest(); }
+
+function _nonIterableRest() { throw new TypeError("Invalid attempt to destructure non-iterable instance"); }
+
+function _iterableToArrayLimit(arr, i) { var _arr = []; var _n = true; var _d = false; var _e = undefined; try { for (var _i = arr[Symbol.iterator](), _s; !(_n = (_s = _i.next()).done); _n = true) { _arr.push(_s.value); if (i && _arr.length === i) break; } } catch (err) { _d = true; _e = err; } finally { try { if (!_n && _i["return"] != null) _i["return"](); } finally { if (_d) throw _e; } } return _arr; }
+
+function _arrayWithHoles(arr) { if (Array.isArray(arr)) return arr; }
 
 var Stripes = function Stripes() {
+  var config = {
+    'line--1': '0,200 150,200 200,90 300,90',
+    'line--2': '100,-10 170,180 300,180',
+    'line--3': '300,200 180,200 215,120 300,120'
+  };
   return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("svg", {
     width: "100%",
     height: "100%",
@@ -992,36 +1005,25 @@ var Stripes = function Stripes() {
     preserveAspectRatio: "none",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 2
+      lineNumber: 9
     },
     __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("polyline", {
-    points: "0,200 150,200 200,90 300,90",
-    id: "line--1",
-    className: "stroke__line",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 6
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("polyline", {
-    points: "70,-10 170,180 300,180",
-    id: "line--2",
-    className: "stroke__line",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 11
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("polyline", {
-    points: "300,200 180,200 215,120 300,120",
-    id: "line--3",
-    className: "stroke__line",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 16
-    },
-    __self: this
+  }, Object.entries(config).map(function (_ref) {
+    var _ref2 = _slicedToArray(_ref, 2),
+        key = _ref2[0],
+        value = _ref2[1];
+
+    return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("polyline", {
+      points: value,
+      id: key,
+      key: key,
+      className: "stroke__line",
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 14
+      },
+      __self: this
+    });
   }));
 };
 
@@ -1042,7 +1044,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! prop-types */ "./node_modules/prop-types/index.js");
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
-var _jsxFileName = "C:\\Users\\might\\Studies\\landing-pages\\portfolio\\components\\WithScrollPosition.js";
+var _jsxFileName = "C:\\Users\\might\\Studies\\landing-pages\\portfolio2.0\\portfolio-project\\components\\WithScrollPosition.js";
 
 function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof = function _typeof(obj) { return typeof obj; }; } else { _typeof = function _typeof(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof(obj); }
 
@@ -1219,14 +1221,14 @@ var en = {
       firstText: 'About',
       secondText: 'me'
     },
-    paragraphs: ["Hi there, my name is Rafael Buzatto de Campos. Once a Civil Engineer, other time a poker player, but now I'm a fullstack developer! In frontend I have a background built up on React and Angular while at the backend in NodeJS.", "I started my journey studying Civil Engineer at Unicamp. Shortly after my graduation I started a new career as successfull professional poker player, where I've spent over 10 years in a highly competitive arena playing against some of the toughest players in the world.", "For the last year I switched for a new career at web development, where I found a great passion in it. Started with Java, then moved to Javascript where I learned these exciting tools, React and Angular. I'm also keen to work backend, handling requests and database, authenticate user."]
+    paragraphs: ["Hi there, my name is Rafael Buzatto de Campos. Once a Civil Engineer, other time a poker player, but now I'm a fullstack developer! In frontend I have a background built up on React and Angular while at the backend in NodeJS.", "I started my journey studying Civil Engineer at Unicamp. Shortly after my graduation I started a new career as successfull professional poker player, where I've spent over 10 years in a highly competitive arena playing against some of the toughest players in the world.", "For the last two year I switched for a new career at web development, where I found a great passion in it. Started with Java, then moved to Javascript where I learned exciting tools, like React and Angular. I'm also keen to work backend, handling requests and database, authenticate user."]
   },
   'skills': {
     intro: {
       firstText: 'Skills',
       secondText: 'My'
     },
-    paragraphs: ["Throughout this last year I've read articles, watched tutorial and did courses to sharp my knowledge. Most of my studies are based on Udemy courses.", "I have to thank a lot to great instructors that delivered high quality content for professional development: Andrew Mead, Stephen Grider, Maximilian Schwarzmuller, Brad Traversy, Leonardo Leitao, Andrei Neagoie."],
+    paragraphs: ["Throughout the last two year I've read articles, watched tutorials and did courses to sharp my knowledge. Most of my studies are based on Udemy courses.", "At frontend I have experience with React and Angular, with solid knowledge in Javascript and its latest releases. I'm careful to provide a responsive design along with optimized bundle, lazy loading, tree shaking, protected routes with user authentication.", "Meanwhile, my backend focus is primary NodeJS based, with experience in Express, MongoDB & GraphQL and some knowledge at SQL database. For user authentication, encrypting properly user password (bcrypt) and managing the token creation without providing sensible data back to frontend.", "I have to thank a lot to great instructors that delivered high quality content for professional development: Andrew Mead, Stephen Grider, Maximilian Schwarzmuller, Brad Traversy, Leonardo Leitao, Andrei Neagoie."],
     heading: 'What Do I Know?'
   },
   'projects': {
@@ -1236,7 +1238,7 @@ var en = {
     },
     cases: [{
       name: 'Canto do Saci',
-      desc: 'Brazilian Restaurant WebSite built in VanillaJS. Responsive, it includes Gmaps API for routes, deployed with Firebase.'
+      desc: 'Brazilian Restaurant WebSite built in VanillaJS. Responsive, it includes Gmaps API for routes. Deployed with Firebase.'
     }]
   },
   'footer': {
@@ -1257,14 +1259,14 @@ var pt = {
       firstText: 'Sobre',
       secondText: 'Mim'
     },
-    paragraphs: ['Olá, meu nome é Rafael Buzatto de Campos. Formado Engenheiro Civil, outrora professional de poker, agora contudo, desenvolvedor fullstack! Em frontend tenho base em React e Angular, enquanto que no backend, NodeJS.', 'Eu comecei minha jornada estudando Engenharia Civil na Unicamp. Logo após minha graduação Eu comecei uma carreira bem sucedida como jogador profissional de poker, onde passei 10 anos competindo contra alguns dos melhores jogadores do mundo.', 'No último ano mudei para uma nova carreira em desenvolvimento web, onde encontrei uma grande paixão. Começei em Java, e passei para Javascript onde aprendi ferramentas fantásticas, como React e Angular. Também aprecio trabalhar no backend, lidando com rotas e banco de dados, assim como autenticação de usuário.']
+    paragraphs: ['Olá, meu nome é Rafael Buzatto de Campos. Formado Engenheiro Civil, outrora professional de poker, agora contudo, desenvolvedor fullstack! Em frontend tenho base em React e Angular, enquanto que no backend, NodeJS.', 'Eu comecei minha jornada estudando Engenharia Civil na Unicamp. Logo após minha graduação Eu comecei uma carreira bem sucedida como jogador profissional de poker, onde passei 10 anos competindo contra alguns dos melhores jogadores do mundo.', 'Nos últimos dois anos mudei para uma nova carreira em desenvolvimento web, onde encontrei uma grande paixão. Começei em Java, e passei para Javascript onde aprendi ferramentas fantásticas, como React e Angular. Também aprecio trabalhar no backend, lidando com rotas e banco de dados, assim como autenticação de usuário.']
   },
   'skills': {
     intro: {
       firstText: 'Estudos',
       secondText: 'Meus'
     },
-    paragraphs: ["Ao longo deste último ano Eu li diversos artigos, assisti tutoriais e realizei cursos para meu aprimoramento profissional. Maior parte de meus estudos foram realizados em cursos disponíveis na plataforma Udemy.", "Agradeço especialmente aos excelentes instrutores que se dispuseram a dividir seu conhecimento em cursos de alta qualidade: Andrew Mead, Stephen Grider, Maximilian Schwarzmuller, Brad Traversy, Leonardo Leitao, Andrei Neagoie."],
+    paragraphs: ["Ao longo deste últimos dois anos Eu li diversos artigos, assisti tutoriais e realizei cursos para meu aprimoramento profissional. Maior parte de meus estudos foram realizados em cursos disponíveis na plataforma Udemy.", "No frontend tenho experiência React e Angular, com sólidos conhecimento em Javascipt e suas atualizações. Crio um design responsivo, com bundle otimizado, utlizando lazy loading, tree shaking, rotas protegidas com autenticação de usuário.", "Do outro lado, meu backend é estruturado em torno de NodeJS, com experiência em Express, MongoDB & GraphQL, com algum conhecimento em databases SQL. Para devida autenticação, senhas são criptografadas (bcrpyt) com gerenciamento correto de token sem retorno de dados privados ao frontend.", "Agradeço especialmente aos excelentes instrutores que se dispuseram a dividir seu conhecimento em cursos de alta qualidade: Andrew Mead, Stephen Grider, Maximilian Schwarzmuller, Brad Traversy, Leonardo Leitao, Andrei Neagoie."],
     heading: 'Sei sobre?'
   },
   'projects': {
@@ -1301,7 +1303,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "contactSvgs", function() { return contactSvgs; });
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "C:\\Users\\might\\Studies\\landing-pages\\portfolio\\icons\\contactSvgs.js";
+var _jsxFileName = "C:\\Users\\might\\Studies\\landing-pages\\portfolio2.0\\portfolio-project\\icons\\contactSvgs.js";
 
 var contactStyle = {
   width: "40px",
@@ -1384,7 +1386,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "backend", function() { return backend; });
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "C:\\Users\\might\\Studies\\landing-pages\\portfolio\\icons\\paths.js";
+var _jsxFileName = "C:\\Users\\might\\Studies\\landing-pages\\portfolio2.0\\portfolio-project\\icons\\paths.js";
 
 var defaultStyle = {
   width: "40px",
@@ -1719,84 +1721,10 @@ var backend = [react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("svg",
   key: "",
   className: "area__logo",
   style: defaultStyle,
-  viewBox: "0 0 48 48",
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 59
-  },
-  __self: undefined
-}, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("path", {
-  fill: "#FF8F00",
-  d: "M8,37L23.234,8.436c0.321-0.602,1.189-0.591,1.494,0.02L30,19L8,37z",
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 60
-  },
-  __self: undefined
-}), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("path", {
-  fill: "#FFA000",
-  d: "M8,36.992l5.546-34.199c0.145-0.895,1.347-1.089,1.767-0.285L26,22.992L8,36.992z",
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 61
-  },
-  __self: undefined
-}), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("polygon", {
-  fill: "#FF6F00",
-  points: "8.008,36.986 8.208,36.829 25.737,22.488 20.793,13.012 ",
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 62
-  },
-  __self: undefined
-}), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("path", {
-  fill: "#FFC400",
-  d: "M8,37l26.666-25.713c0.559-0.539,1.492-0.221,1.606,0.547L40,37l-15,8.743  c-0.609,0.342-1.352,0.342-1.961,0L8,37z",
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 63
-  },
-  __self: undefined
-})), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("svg", {
-  key: "",
-  className: "area__logo",
-  style: defaultStyle,
-  viewBox: "0 0 48 48",
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 65
-  },
-  __self: undefined
-}, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("g", {
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 66
-  },
-  __self: undefined
-}, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("path", {
-  fill: "#252F3E",
-  d: "M13.527,21.529c0,0.597,0.064,1.08,0.176,1.435c0.128,0.355,0.287,0.742,0.511,1.161   c0.08,0.129,0.112,0.258,0.112,0.371c0,0.161-0.096,0.322-0.303,0.484l-1.006,0.677c-0.144,0.097-0.287,0.145-0.415,0.145   c-0.16,0-0.319-0.081-0.479-0.226c-0.224-0.242-0.415-0.5-0.575-0.758c-0.16-0.274-0.319-0.58-0.495-0.951   c-1.245,1.483-2.81,2.225-4.694,2.225c-1.341,0-2.411-0.387-3.193-1.161s-1.181-1.806-1.181-3.096c0-1.37,0.479-2.483,1.453-3.321   s2.267-1.258,3.911-1.258c0.543,0,1.102,0.048,1.692,0.129s1.197,0.21,1.836,0.355v-1.177c0-1.225-0.255-2.08-0.75-2.58   c-0.511-0.5-1.373-0.742-2.602-0.742c-0.559,0-1.133,0.064-1.724,0.21c-0.591,0.145-1.165,0.322-1.724,0.548   c-0.255,0.113-0.447,0.177-0.559,0.21c-0.112,0.032-0.192,0.048-0.255,0.048c-0.224,0-0.335-0.161-0.335-0.5v-0.79   c0-0.258,0.032-0.451,0.112-0.564c0.08-0.113,0.224-0.226,0.447-0.339c0.559-0.29,1.229-0.532,2.012-0.726   c0.782-0.21,1.612-0.306,2.49-0.306c1.9,0,3.289,0.435,4.183,1.306c0.878,0.871,1.325,2.193,1.325,3.966v5.224H13.527z    M7.045,23.979c0.527,0,1.07-0.097,1.644-0.29c0.575-0.193,1.086-0.548,1.517-1.032c0.255-0.306,0.447-0.645,0.543-1.032   c0.096-0.387,0.16-0.855,0.16-1.403v-0.677c-0.463-0.113-0.958-0.21-1.469-0.274c-0.511-0.064-1.006-0.097-1.501-0.097   c-1.07,0-1.852,0.21-2.379,0.645s-0.782,1.048-0.782,1.854c0,0.758,0.192,1.322,0.591,1.709   C5.752,23.786,6.311,23.979,7.045,23.979z M19.865,25.721c-0.287,0-0.479-0.048-0.607-0.161c-0.128-0.097-0.239-0.322-0.335-0.629   l-3.752-12.463c-0.096-0.322-0.144-0.532-0.144-0.645c0-0.258,0.128-0.403,0.383-0.403h1.565c0.303,0,0.511,0.048,0.623,0.161   c0.128,0.097,0.223,0.322,0.319,0.629l2.682,10.674l2.49-10.674c0.08-0.322,0.176-0.532,0.303-0.629   c0.128-0.097,0.351-0.161,0.639-0.161h1.277c0.303,0,0.511,0.048,0.639,0.161c0.128,0.097,0.239,0.322,0.303,0.629l2.522,10.803   l2.762-10.803c0.096-0.322,0.208-0.532,0.319-0.629c0.128-0.097,0.335-0.161,0.623-0.161h1.485c0.255,0,0.399,0.129,0.399,0.403   c0,0.081-0.016,0.161-0.032,0.258s-0.048,0.226-0.112,0.403l-3.847,12.463c-0.096,0.322-0.208,0.532-0.335,0.629   s-0.335,0.161-0.607,0.161h-1.373c-0.303,0-0.511-0.048-0.639-0.161c-0.128-0.113-0.239-0.322-0.303-0.645l-2.474-10.4   L22.18,24.915c-0.08,0.322-0.176,0.532-0.303,0.645c-0.128,0.113-0.351,0.161-0.639,0.161H19.865z M40.379,26.156   c-0.83,0-1.66-0.097-2.458-0.29c-0.798-0.193-1.421-0.403-1.836-0.645c-0.255-0.145-0.431-0.306-0.495-0.451   c-0.064-0.145-0.096-0.306-0.096-0.451v-0.822c0-0.339,0.128-0.5,0.367-0.5c0.096,0,0.192,0.016,0.287,0.048   c0.096,0.032,0.239,0.097,0.399,0.161c0.543,0.242,1.133,0.435,1.756,0.564c0.639,0.129,1.261,0.193,1.9,0.193   c1.006,0,1.788-0.177,2.331-0.532c0.543-0.355,0.83-0.871,0.83-1.532c0-0.451-0.144-0.822-0.431-1.129   c-0.287-0.306-0.83-0.58-1.612-0.838l-2.315-0.726c-1.165-0.371-2.027-0.919-2.554-1.645c-0.527-0.709-0.798-1.499-0.798-2.338   c0-0.677,0.144-1.274,0.431-1.79s0.671-0.967,1.149-1.322c0.479-0.371,1.022-0.645,1.66-0.838C39.533,11.081,40.203,11,40.906,11   c0.351,0,0.718,0.016,1.07,0.064c0.367,0.048,0.702,0.113,1.038,0.177c0.319,0.081,0.623,0.161,0.91,0.258s0.511,0.193,0.671,0.29   c0.224,0.129,0.383,0.258,0.479,0.403c0.096,0.129,0.144,0.306,0.144,0.532v0.758c0,0.339-0.128,0.516-0.367,0.516   c-0.128,0-0.335-0.064-0.607-0.193c-0.91-0.419-1.932-0.629-3.065-0.629c-0.91,0-1.628,0.145-2.123,0.451   c-0.495,0.306-0.75,0.774-0.75,1.435c0,0.451,0.16,0.838,0.479,1.145c0.319,0.306,0.91,0.613,1.756,0.887l2.267,0.726   c1.149,0.371,1.98,0.887,2.474,1.548s0.734,1.419,0.734,2.257c0,0.693-0.144,1.322-0.415,1.87   c-0.287,0.548-0.671,1.032-1.165,1.419c-0.495,0.403-1.086,0.693-1.772,0.903C41.943,26.043,41.193,26.156,40.379,26.156z",
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 67
-  },
-  __self: undefined
-}), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("path", {
-  fill: "#FF9900",
-  d: "M43.396,33.992c-5.252,3.918-12.883,5.998-19.445,5.998c-9.195,0-17.481-3.434-23.739-9.142   c-0.495-0.451-0.048-1.064,0.543-0.709c6.769,3.966,15.118,6.369,23.755,6.369c5.827,0,12.229-1.225,18.119-3.741   C43.508,32.364,44.258,33.347,43.396,33.992z M45.583,31.477c-0.671-0.871-4.438-0.419-6.146-0.21   c-0.511,0.064-0.591-0.387-0.128-0.726c3.001-2.128,7.934-1.516,8.509-0.806c0.575,0.726-0.16,5.708-2.969,8.094   c-0.431,0.371-0.846,0.177-0.655-0.306C44.833,35.927,46.254,32.331,45.583,31.477z",
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 68
-  },
-  __self: undefined
-}))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("svg", {
-  key: "",
-  className: "area__logo",
-  style: defaultStyle,
   viewBox: "0 0 192.756 192.756",
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 71
+    lineNumber: 59
   },
   __self: undefined
 }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("g", {
@@ -1804,7 +1732,7 @@ var backend = [react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("svg",
   clipRule: "evenodd",
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 72
+    lineNumber: 60
   },
   __self: undefined
 }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("path", {
@@ -1812,7 +1740,7 @@ var backend = [react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("svg",
   fill: "#00678c",
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 73
+    lineNumber: 61
   },
   __self: undefined
 }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("path", {
@@ -1820,7 +1748,7 @@ var backend = [react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("svg",
   fill: "#00678c",
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 74
+    lineNumber: 62
   },
   __self: undefined
 }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("path", {
@@ -1828,7 +1756,7 @@ var backend = [react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("svg",
   fill: "#ce8b2c",
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 75
+    lineNumber: 63
   },
   __self: undefined
 })))];
@@ -28318,7 +28246,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_Projects__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ../components/Projects */ "./components/Projects.js");
 /* harmony import */ var _components_Footer__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ../components/Footer */ "./components/Footer.js");
 /* harmony import */ var _data__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./../data */ "./data.js");
-var _jsxFileName = "C:\\Users\\might\\Studies\\landing-pages\\portfolio\\pages\\index.js";
+var _jsxFileName = "C:\\Users\\might\\Studies\\landing-pages\\portfolio2.0\\portfolio-project\\pages\\index.js";
 
 function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof = function _typeof(obj) { return typeof obj; }; } else { _typeof = function _typeof(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof(obj); }
 
@@ -28672,7 +28600,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "renderParagraphs", function() { return renderParagraphs; });
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "C:\\Users\\might\\Studies\\landing-pages\\portfolio\\utils\\utils.js";
+var _jsxFileName = "C:\\Users\\might\\Studies\\landing-pages\\portfolio2.0\\portfolio-project\\utils\\utils.js";
 
 var renderParagraphs = function renderParagraphs(lines, className) {
   return lines.map(function (line, idx) {
